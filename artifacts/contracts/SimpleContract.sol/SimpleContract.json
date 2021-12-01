@@ -1,0 +1,37 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SimpleContract",
+  "sourceName": "contracts/SimpleContract.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "_simpleVariable",
+          "type": "uint256"
+        }
+      ],
+      "name": "setSimpleVariable",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "simpleVariable",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b5060c48061001f6000396000f3fe6080604052348015600f57600080fd5b506004361060325760003560e01c80631c9fd5951460375780634d9a6ebc146062575b600080fd5b606060048036036020811015604b57600080fd5b8101908080359060200190929190505050607e565b005b60686088565b6040518082815260200191505060405180910390f35b8060008190555050565b6000548156fea2646970667358221220085d11646d1c2ca1ae748a9181faa8ca0e7fc598d8a0cb5be5564c592ad77a6e64736f6c634300060c0033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060325760003560e01c80631c9fd5951460375780634d9a6ebc146062575b600080fd5b606060048036036020811015604b57600080fd5b8101908080359060200190929190505050607e565b005b60686088565b6040518082815260200191505060405180910390f35b8060008190555050565b6000548156fea2646970667358221220085d11646d1c2ca1ae748a9181faa8ca0e7fc598d8a0cb5be5564c592ad77a6e64736f6c634300060c0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
