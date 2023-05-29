@@ -130,3 +130,36 @@ Now when we run the command
 yarn hardhat node
 
 ```
+
+## Further Learning
+
+It is useful before taking a deep dive into Ethereum smart contract programming to learn the instruction set used in the EVM.
+
+[https://ethervm.io/](https://ethervm.io/)
+
+Experiment with assembly and disassembly using these JS tools
+
+[https://github.com/kungfuflex/emasm](https://github.com/kungfuflex/emasm)
+[https://github.com/kungfuflex/evmdis](https://github.com/kungfuflex/evmdis)
+
+Learn how to be productive with the @openzeppelin/contracts repository available on npm
+
+A good description is here:
+
+[https://github.com/kungfuflex/openzeppelin-contracts-workshop](https://github.com/kungfuflex/openzeppelin-contracts-workshop)
+
+The entire OpenZeppelin framework is here
+
+[https://github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
+Learn to use the factory/clone pattern from OpenZeppelin
+
+[https://medium.com/upstate-interactive/how-to-build-a-contract-factory-that-creates-contract-clones-efcc9619be0b](https://medium.com/upstate-interactive/how-to-build-a-contract-factory-that-creates-contract-clones-efcc9619be0b)
+
+To build better UX, learn to use @uniswap/permit2-sdk
+
+[https://github.com/Uniswap/permit2-sdk](https://github.com/Uniswap/permit2-sdk)
+
+Check out a smart contract project that does not use Solidity, but instead uses EVM assembly via emasm
+
+[https://github.com/pintswap](https://github.com/pintswap)
