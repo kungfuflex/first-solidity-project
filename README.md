@@ -152,7 +152,12 @@ The entire OpenZeppelin framework is here
 
 [https://github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 
-Learn to use the factory/clone pattern from OpenZeppelin
+Learn to use the OpenZeppelin upgradeable contract framework
+
+[https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable](https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable)
+[https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable)
+
+Learn to use the OpenZeppelin factory/clone pattern
 
 [https://medium.com/upstate-interactive/how-to-build-a-contract-factory-that-creates-contract-clones-efcc9619be0b](https://medium.com/upstate-interactive/how-to-build-a-contract-factory-that-creates-contract-clones-efcc9619be0b)
 
